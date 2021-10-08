@@ -5,7 +5,7 @@
         <title>个人简介</title>
     </head>
     <body>
-        <h1>基础信息</h1>
+        <h1>hyj的基础信息</h1>
         <p>姓名：hyj         <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F-vo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3Dd3edfe5fb0003af34defd464001aea6a%2F8601a18b87d6277f7b112c6e2e381f30e924fc61.jpg&refer=http%3A%2F%2Fgss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1636259524&t=f49c4c01447555f2aee8b423da28e89d"width="50" height="50"></p>
         <p>年龄：未知      <a href="C:\Users\86187\Desktop\年龄.docx">详情请点此</a></p>
         <p>邮箱：1670699615@qq.com</p>
@@ -16,7 +16,7 @@
         <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1606%2F20%2Fc7%2F23094211_1466407966529_mthumb.jpg&refer=http%3A%2F%2Fimg.pconline.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635473144&t=5bb0983061a4b8cee28105e0cc635f6d"width="250"height="190"><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4480523849932552284">西双版纳的惬意一天</a></p>
         <p>在读学校:<a href="https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/110221">北京大学</a></p>
         <p>婚姻状况：未婚</p>
-        <p>爱好：单车骑行     <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.gSX5RMwIx69gT2XlbvlAowHaE8?pid=ImgDet&rs=1">height=50 width=50</p>
+        <p>爱好：单车骑行     <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.gSX5RMwIx69gT2XlbvlAowHaE8?pid=ImgDet&rs=1">height="50" width="50"</p>
         <p>人生格言：<a herf="https://www.bilibili.com/bangumi/play/ep364554/">所爱隔山海，山海皆可平</a></p>
         <p>星座：秘密
         <p>理想：天下大同
