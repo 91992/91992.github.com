@@ -16,8 +16,8 @@
         <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1606%2F20%2Fc7%2F23094211_1466407966529_mthumb.jpg&refer=http%3A%2F%2Fimg.pconline.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635473144&t=5bb0983061a4b8cee28105e0cc635f6d"width="250"height="190"><a href="https://haokan.baidu.com/v?pd=wisenatural&vid=4480523849932552284">西双版纳的惬意一天</a></p>
         <p>在读学校:<a href="https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/110221">北京大学</a></p>
         <p>婚姻状况：未婚</p>
-        <p>爱好：单车骑行     <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.gSX5RMwIx69gT2XlbvlAowHaE8?pid=ImgDet&rs=1">height="50" width="50"</p>
-        <p>人生格言：<a herf="https://www.bilibili.com/bangumi/play/ep364554/">所爱隔山海，山海皆可平</a></p>
+        <p>爱好：单车骑行     <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.gSX5RMwIx69gT2XlbvlAowHaE8?pid=ImgDet&rs=1"height="50" width="50"></p>
+        <p>人生格言：<a href="https://www.bilibili.com/bangumi/play/ep364554/">所爱隔山海，山海皆可平</a></p>
         <p>星座：秘密
         <p>理想：天下大同
     </body>
